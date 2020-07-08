@@ -33,4 +33,8 @@ MildDemented, ModerateDemented, NonDemented, VeryMildDemented.This data set cont
 ![nonDem8](https://user-images.githubusercontent.com/61901749/86909086-2ff16c80-c135-11ea-8e7b-dd8baf727ed6.jpg)
 
 #### VeryMildDemented
+![verymildDem2](https://user-images.githubusercontent.com/61901749/86909225-5dd6b100-c135-11ea-9dbe-820e09e1045f.jpg)
+![verymildDem3](https://user-images.githubusercontent.com/61901749/86909227-5f07de00-c135-11ea-98bf-04e29212b0c8.jpg)
+![verymildDem5](https://user-images.githubusercontent.com/61901749/86909228-5fa07480-c135-11ea-8dba-1ab3f89a298d.jpg)
+![verymildDem6](https://user-images.githubusercontent.com/61901749/86909230-60390b00-c135-11ea-8aff-309aeaa68e5d.jpg)
 
