@@ -14,3 +14,10 @@ This dataset is downloaded from kaggle weblsite. The data set can be downloaded 
 MildDemented, ModerateDemented, NonDemented, VeryMildDemented.This data set contain total of 5121 examples (including training ,validation and testing sets).
 
 ## preview of this data set
+#### MildDemented
+![mildDem1](https://user-images.githubusercontent.com/61901749/86908731-a5107200-c134-11ea-95b2-1dfcbd587244.jpg)
+![mildDem2](https://user-images.githubusercontent.com/61901749/86908738-a6419f00-c134-11ea-816e-3bfe0d886432.jpg)
+![mildDem3](https://user-images.githubusercontent.com/61901749/86908742-a6da3580-c134-11ea-857e-402188811e21.jpg)
+![mildDem8](https://user-images.githubusercontent.com/61901749/86908744-a772cc00-c134-11ea-959f-aa9da5553b4b.jpg)
+
+#### ModerateDemented
