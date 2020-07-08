@@ -6,6 +6,17 @@ Alzheimer's disease is a progressive disorder that causes brain cells to waste a
 Alzheimer's disease is the most common cause of dementia — a continuous decline in thinking, behavioral and 
 social skills that disrupts a person's ability to function independently.
 
+### LIBRARIES
+* os
+* cv2
+* tqdm
+* numpy
+* pandas
+* seaborn
+* matplotlib
+* sklearn
+* pickle
+
 ### About the model
 This model is built with 5 convolution layers on around 5000 brain images. This model has a accuracy more than 96.88% on test set.
 
@@ -38,3 +49,11 @@ MildDemented, ModerateDemented, NonDemented, VeryMildDemented.This data set cont
 ![verymildDem5](https://user-images.githubusercontent.com/61901749/86909228-5fa07480-c135-11ea-8dba-1ab3f89a298d.jpg)
 ![verymildDem6](https://user-images.githubusercontent.com/61901749/86909230-60390b00-c135-11ea-8aff-309aeaa68e5d.jpg)
 
+## plots
+### loss function vs the number of epochs
+
+<img src="https://user-images.githubusercontent.com/61901749/86909689-1997e080-c136-11ea-9ab8-ba25b04946bf.png" width=400>
+
+### accuracy vs the number of epochs
+
+<img src="https://user-images.githubusercontent.com/61901749/86909693-1bfa3a80-c136-11ea-8015-30d36b66c41c.png" width=400>
