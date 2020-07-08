@@ -57,3 +57,6 @@ MildDemented, ModerateDemented, NonDemented, VeryMildDemented.This data set cont
 ### accuracy vs the number of epochs
 
 <img src="https://user-images.githubusercontent.com/61901749/86909693-1bfa3a80-c136-11ea-8015-30d36b66c41c.png" width=400>
+
+ ## MODEL ACCURACY : 96.88%
+ 
